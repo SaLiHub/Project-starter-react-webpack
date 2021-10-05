@@ -1,0 +1,12 @@
+/*!********************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./src/scripts/components/App/App.css ***!
+  \********************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Akronim&display=swap);
+/*!************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./src/scripts/components/App/App.css (1) ***!
+  \************************************************************************************************************************************/
+body {
+  font-family: "Akronim", cursive;
+  background-color: antiquewhite;
+}
+
