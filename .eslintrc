@@ -8,7 +8,7 @@
       "presets": ["@babel/preset-react"]
     }
   },
-  "extends": ["airbnb", "react-app"],
+  "extends": ["airbnb", "react-app", "plugin:react-hooks/recommended"],
   "env": {
     "browser": true,
     "node": true
