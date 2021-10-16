@@ -30,6 +30,8 @@
     "one-var": ["error", "never"],
     "arrow-parens": ["error", "always"],
     "linebreak-style": 0,
-    "import/extensions": "off"
+    "import/extensions": "off",
+    "lines-between-class-members": ["error", "always"],
+    "no-param-reassign": ["error", { "props": false }]
   }
 }
